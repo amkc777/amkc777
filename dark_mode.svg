@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="600px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="620px" font-size="16px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .commentColor {fill: #8b949e;}
+.textLink {fill: #58a6ff; text-decoration: underline;}
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="590px" fill="#161b22" rx="15"/>
+<rect width="970px" height="610px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">           g@M%@%%@N%Nw,,                   </tspan>
@@ -49,19 +50,20 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="150">⚡ Fun fact: I enjoy exploring new data technologies and enhancing my problem-solving skills.</tspan>
 <tspan x="370" y="170" class="keyColor">Contact:</tspan>
 <tspan x="370" y="190" class="keyColor">Email</tspan>: <tspan class="valueColor">mohana.krishna.alla07@gmail.com</tspan>
-<tspan x="370" y="210" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">MohanaKrishnaAlla</tspan>
-<tspan x="370" y="230" class="keyColor">Discord</tspan>: <tspan class="valueColor">MohanaKrishnaAlla#1234</tspan>
-<tspan x="370" y="250" class="keyColor">Host</tspan>: <tspan class="valueColor">Rochester Institute of Technology</tspan><tspan class="commentColor"> #RIT</tspan>
-<tspan x="370" y="270" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA, VSCode</tspan>
-<tspan x="370" y="290" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, SQL, Java, C++</tspan>
-<tspan x="370" y="310" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
-<tspan x="370" y="330" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish, Telugu, Hindi</tspan>
-<tspan x="370" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Exploring new data technologies</tspan>
-<tspan x="370" y="370" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
-<tspan x="370" y="390" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="410">——————</tspan>
-<tspan x="370" y="430" class="keyColor">Repos</tspan>: <tspan class="valueColor">94</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">132</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">2,058</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">267</tspan>
-<tspan x="370" y="450" class="keyColor">Followers</tspan>: <tspan class="valueColor">122</tspan> | <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">441,154</tspan> (<tspan class="addColor">514,720++</tspan>, <tspan class="delColor">73,566--</tspan>)
+<tspan x="370" y="210" class="keyColor">LinkedIn</tspan>: <tspan class="textLink" onclick="window.open('https://www.linkedin.com/in/amkc777', '_blank');">Mohana Krishna Alla</tspan>
+<tspan x="370" y="230" class="keyColor">Medium</tspan>: <tspan class="textLink" onclick="window.open('https://medium.com/@amkc07', '_blank');">Mohana Krishna Alla</tspan>
+<tspan x="370" y="250" class="keyColor">Discord</tspan>: <tspan class="valueColor">MohanaKrishnaAlla#1234</tspan>
+<tspan x="370" y="270" class="keyColor">Host</tspan>: <tspan class="valueColor">Central Michigan University</tspan><tspan class="commentColor"> #RIT</tspan>
+<tspan x="370" y="270" class="keyColor">Host</tspan>: <tspan class="valueColor">RVR&JC College of Engineering</tspan><tspan class="commentColor"> #RIT</tspan>
+<tspan x="370" y="290" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA, VSCode</tspan>
+<tspan x="370" y="310" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, SQL, Java, C++</tspan>
+<tspan x="370" y="330" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
+<tspan x="370" y="350" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish, Telugu, Hindi</tspan>
+<tspan x="370" y="370" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Exploring new data technologies</tspan>
+<tspan x="370" y="390" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
+<tspan x="370" y="410" class="keyColor">GitHub Stats</tspan>:
+<tspan x="370" y="430">——————</tspan>
+<tspan x="370" y="450" class="keyColor">Repos</tspan>: <tspan class="valueColor">94</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">132</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">2,058</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">267</tspan>
 </text>
 
 </svg>
